@@ -1,0 +1,25 @@
+{
+	"version":1,
+	"eventInfo":[
+		{
+			"infoId":1,
+			"infoType":4,
+			"date":"2019/5/17",
+			"description":"イベントお知らせ内容説明"
+		}
+	],
+	"normalInfo":[
+		{
+			"infoId":2,
+			"infoType":1,
+			"date":"2019/5/17",
+			"description":"重要なお知らせ内容説明"
+		},
+		{
+			"infoId":3,
+			"infoType":3,
+			"date":"2019/5/17",
+			"description":"不具合お知らせ内容説明"
+		}
+	]
+}
