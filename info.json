@@ -3,16 +3,16 @@
 	"eventInfo":[],
 	"normalInfo":[
 		{
-			"infoId":1,
-			"infoType":2,
-			"date":"2023/11/1",
-			"description":"リリースのお知らせ"
-		},
-		{
 			"infoId":2,
 			"infoType":3,
 			"date":"2023/11/1",
 			"description":"不具合のお知らせ"
+		},
+		{
+			"infoId":1,
+			"infoType":2,
+			"date":"2023/11/1",
+			"description":"リリースのお知らせ"
 		}
 	]
 }
