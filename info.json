@@ -1,7 +1,20 @@
 {
-	"version":3,
-	"eventInfo":[],
+	"version":4,
+	"eventInfo":[
+		{
+			"infoId":3,
+			"infoType":4,
+			"date":"2023/11/1",
+			"description":"「SPIRIT OF FRONTIER」開催のお知らせ"
+		}
+	],
 	"normalInfo":[
+		{
+			"infoId":2,
+			"infoType":3,
+			"date":"2023/11/1",
+			"description":"リリース後発生している不具合について"
+		},
 		{
 			"infoId":1,
 			"infoType":2,
