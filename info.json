@@ -1,5 +1,5 @@
 {
-	"version":4,
+	"version":5,
 	"eventInfo":[
 		{
 			"infoId":3,
@@ -9,6 +9,12 @@
 		}
 	],
 	"normalInfo":[
+		{
+			"infoId":4,
+			"infoType":3,
+			"date":"2023/11/2",
+			"description":"リリース後発生している不具合について"
+		},
 		{
 			"infoId":2,
 			"infoType":3,
