@@ -10,6 +10,12 @@
 	],
 	"normalInfo":[
 		{
+			"infoId":5,
+			"infoType":3,
+			"date":"2023/11/3",
+			"description":"リリース後発生している不具合について"
+		},
+		{
 			"infoId":4,
 			"infoType":3,
 			"date":"2023/11/2",
