@@ -2,6 +2,18 @@
 	"version":6,
 	"eventInfo":[
 		{
+			"infoId":10,
+			"infoType":4,
+			"date":"2023/11/10",
+			"description":"「SPIRIT OF FRONTIER」開催のお知らせ"
+		},
+		{
+			"infoId":9,
+			"infoType":4,
+			"date":"2023/11/6",
+			"description":"「不死鳥降臨」開催のお知らせ"
+		},
+		{
 			"infoId":3,
 			"infoType":4,
 			"date":"2023/11/1",
@@ -9,6 +21,12 @@
 		}
 	],
 	"normalInfo":[
+		{
+			"infoId":8,
+			"infoType":2,
+			"date":"2023/11/11",
+			"description":"アプリアップデートのお知らせ"
+		},
 		{
 			"infoId":7,
 			"infoType":2,
