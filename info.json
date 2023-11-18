@@ -1,6 +1,12 @@
 {
-	"version":6,
+	"version":12,
 	"eventInfo":[
+		{
+			"infoId":11,
+			"infoType":4,
+			"date":"2023/11/15",
+			"description":"「四神降臨」開催のお知らせ"
+		},
 		{
 			"infoId":10,
 			"infoType":4,
@@ -21,6 +27,12 @@
 		}
 	],
 	"normalInfo":[
+		{
+			"infoId":12,
+			"infoType":2,
+			"date":"2023/11/17",
+			"description":"アプリアップデートのお知らせ"
+		},
 		{
 			"infoId":8,
 			"infoType":2,
