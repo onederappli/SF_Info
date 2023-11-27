@@ -1,6 +1,18 @@
 {
-	"version":12,
+	"version":15,
 	"eventInfo":[
+		{
+			"infoId":14,
+			"infoType":4,
+			"date":"2023/11/25",
+			"description":"「STAR CUP」開催のお知らせ"
+		},
+		{
+			"infoId":13,
+			"infoType":4,
+			"date":"2023/11/20",
+			"description":"「SPIRIT OF FRONTIER」開催のお知らせ"
+		},
 		{
 			"infoId":11,
 			"infoType":4,
@@ -27,6 +39,12 @@
 		}
 	],
 	"normalInfo":[
+		{
+			"infoId":15,
+			"infoType":4,
+			"date":"2023/11/28",
+			"description":"アリーナランキング報酬に関してのお知らせ"
+		},
 		{
 			"infoId":12,
 			"infoType":2,
